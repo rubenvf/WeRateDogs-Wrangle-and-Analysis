@@ -5,7 +5,7 @@ Real-world data doesn't usually come clean, so the aim of this project is to col
 
 ## Data
 
-- `twitter-archive-enhanced.csv`: This document was delivered directly by Udacity and downloaded manually. It contains the following columns: tweet_id ,in_reply_to_status_id, in_reply_to_user_id, timestamp source, text, retweeted_status_id, retweeted_status_user_id, retweeted_status_timestamp, expanded_urls, rating_numerator and rating_denominator.
+- `twitter-archive-enhanced.csv`: This document was delivered directly by Udacity and downloaded manually. It contains the following columns: tweet_id, in_reply_to_status_id, in_reply_to_user_id, timestamp source, text, retweeted_status_id, retweeted_status_user_id, retweeted_status_timestamp, expanded_urls, rating_numerator and rating_denominator.
 
 - `image_predictions.tsv`: This file is located on a Udacity server and was downloaded through its url. It contains information related to a neural network classifier of dog breeds. Its columns are: tweet_id, jpg_url, img_num, p1, p1_conf, p1_dog, p2, p2_conf, p2_dog, p3, p3_conf and p3_dog.
 
