@@ -1,4 +1,4 @@
-# WeRateDogs-Wrangle-and-Analysis
+# WeRateDogs: Wrangle and Analyze Data
 Code for project 4 Udacity's Data Analyst Nanodegree
 
 Real-world data doesn't usually come clean, so the aim of this project is to collect, assess and clean up three dataframes associated with the [WeRateDogs Twitter account](https://twitter.com/dog_rates?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor).
